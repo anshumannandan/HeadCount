@@ -1,0 +1,6 @@
+train: W:\SI\HeadCount\train
+val: W:\SI\HeadCount\val
+
+nc: 1
+
+names: ['face']

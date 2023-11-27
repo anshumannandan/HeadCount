@@ -1,0 +1,8 @@
+simple-image-download==0.4
+labelImg
+
+ultralytics
+--index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
